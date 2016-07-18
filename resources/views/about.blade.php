@@ -6,31 +6,7 @@
         <title>About Us</title>
 		<style>
 			.banner{
-				margin-top: -75px;
-				margin-left: -20px;
-				margin-right: -20px;
 				background: url(image/acer.jpg);
-				background-size: cover;
-				color: #000;
-				min-height: 650px;
-			}
-			.navbar{
-				background: #000;
-			}
-			.test1{
-				color: #fffaf0;
-			}
-			.test{
-				color: #009900;
-			}
-			.title{
-				font-size: 25px;
-			}
-			.story{
-				text-align: justify;
-			}
-			.garis{
-				min-height: 550px;
 			}
 		</style>
 	</head>
@@ -56,7 +32,7 @@
 				</div>
 		</div>
 		</div>
-		<br><br><br>
+		<br>
 		<div class="container-fluid">
 			<div class="banner">
 				<div class="col-sm-12 text-center"></b><img style="margin:0 auto" width="550" class="img-circle img-responsive" src="image/about.jpg"></img>

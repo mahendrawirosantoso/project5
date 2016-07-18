@@ -6,46 +6,7 @@
         <title>About Us</title>
 		<style>
 			.banner{
-				margin-top: -40px;
-				margin-left: -20px;
-				margin-right: -20px;
 				background: url(image/acer.jpg);
-				background-size: cover;
-				color: #000;
-				min-height: 750px;
-			}
-			.container{
-				background: #fff;
-				padding-top: 20px;
-				padding-bottom: 20px;
-			}
-			.navbar{
-				background: #000;
-				margin bottom: 50px;
-			}
-			.test1{
-				color: #fffaf0;
-			}
-			.test{
-				color: #009999;
-			}
-			.title{
-				font-size: 25px;
-			}
-			.story{
-				text-align: justify;
-			}
-			.test2{
-				color: #cc0000;
-			}
-			textarea{
-				resize: none;
-			}
-			.test3{
-				color: #000;
-			}
-			.copy{
-				padding-top: 100px;
 			}
 		</style>
 	</head>
@@ -75,10 +36,10 @@
 	<br><br><br>
 		<div class="container">
 			<div class="col-sm-8">
-			<h1>Contact Us</h1>
-			<p class="story">Ada keluhan atau pertanyaan silahkan kirimkan keluhan anda dengan form di bawah ini</p>
+			<h2>Contact Us</h2>
+			<i class="story">Ada keluhan atau pertanyaan silahkan kirimkan keluhan anda dengan form di bawah ini</i>
 			<br><br>
-			<p class="story">Anda dapat menghubungi kami melalui email,telepon,skype atau dapat mengunjungi toko kami langsung dialamat yang tertera</p>
+			<i class="story">Anda dapat menghubungi kami melalui email,telepon,skype atau dapat mengunjungi toko kami langsung dialamat yang tertera</i>
 			<br><br><br>
 			<div class="col-sm-6">
 				<label>Nama :</label><br>
@@ -116,8 +77,9 @@
 				</div>
 			</div>
 		</div>
+		<br><br><br><br><br><br><br>
 		<div class="copy text-right test1">
-			<p> &copy; 2016 Asih Jaya Motor. All Rights Reserved | Design by Mahendra</p>
+			&copy; 2016 Asih Jaya Motor. All Rights Reserved | Design by Mahendra
 		</div>
 		</div>
 	</body>

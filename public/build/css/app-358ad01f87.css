@@ -5733,4 +5733,55 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
+.banner {
+  margin-top: -40px;
+  margin-left: -20px;
+  margin-right: -20px;
+  background-size: cover;
+  color: #000;
+  min-height: 750px; }
+
+.banner h1 {
+  font-size: 63px; }
+
+.banner p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200; }
+
+.container {
+  background: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+.navbar {
+  background: #000; }
+
+.test1 {
+  color: #fffaf0; }
+
+.test {
+  color: #009999; }
+
+.title {
+  font-size: 25px; }
+
+.story {
+  text-align: justify; }
+
+.test2 {
+  color: #cc0000; }
+
+textarea {
+  resize: none; }
+
+.test3 {
+  color: #000; }
+
+.test4 {
+  background: #009999; }
+
+.garis {
+  min-height: 550px; }
+
 /*# sourceMappingURL=app.css.map */
